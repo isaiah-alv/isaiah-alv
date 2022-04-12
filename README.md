@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaiah Adlai Alviola or @isaiah-alv
 - 👀 I’m interested in cybersecurity, web development. 
-- 🌱 I’m currently learning Java, SQL, and Python.
+- 🌱 I’m currently learning Java and Python.
 - 📫 isaiahalviola0@gmail.com 
 
 <!---
