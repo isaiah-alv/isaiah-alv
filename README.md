@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaiah Adlai Alviola or @isaiah-alv
-- 👀 I’m interested in cyber security and data science. 
-- 🌱 I’m currently learning MySQL, PHP, and R.
+- 👀 I’m interested in cyber security and dev ops. 
+- 🌱 I’m currently learning python automation and DBMS.
 - 📫 isaiahalviola0@gmail.com 
 
