@@ -6,7 +6,7 @@ Hello! My name is Isaiah Alviola and I am a tutor and university student at Kean
 | Projects! | Description |
 | ----------- | ----------- |
 |[SortItOut](https://isaiah-alv.github.io/sort-it-out/)| A sorting algorithm visualizer made using ReactJS. Examples using Java to teach APCSA. |
-|[PythonProjects](https://replit.com/@IsaiahAlviola?path=folder/Python%20Projects)| My curriculum for students learning Python. Made with TCS-Short Hills code coaches.|
+|[PythonProjects](https://replit.com/@IsaiahAlviola?path=folder/Python%20Projects)| My curriculum for a project based appraoch to learning Python. 
 
 #### **TECHNICAL SKILLS**
 **Programming Languages**: JavaScript ES6, Python, Java, PHP
