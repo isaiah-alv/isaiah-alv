@@ -13,4 +13,4 @@ I'm passionate about building applications that are not only functional but also
 🔐 Web Security • 🐍 Python Scripting • 🖥 Linux Administration • 🎨 UI/UX Design  
 
 **Hobbies:**  
-🎾 Tennis • 🏈 Watching Sports • 🎳 Bowling • 🖧 Homelabbing
+🎾 Tennis and Running • 🏈 Watching Sports • 🖧 Homelabbing
