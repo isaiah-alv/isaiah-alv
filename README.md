@@ -4,12 +4,6 @@ Welcome to my GitHub!
 I'm passionate about building applications that are not only functional but also secure. I enjoy working across the full stack, experimenting with different technologies, and exploring cybersecurity concepts to strengthen my development process.  
 
 💻 **What I work with:**  
-- **Languages:** Python, JavaScript, PHP, SQL  
-- **Frameworks & Tools:** React, Next.js, Tailwind CSS, MongoDB, AWS Serverless  
-- **Interests:** Web security, penetration testing, secure application architecture, and backend optimization  
-
-💻 **What I work with:**  
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
