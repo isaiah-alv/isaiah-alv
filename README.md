@@ -1,8 +1,10 @@
 Welcome to my GitHub!  
-I enjoy working across the full stack, experimenting with different technologies, and learning concepts to strengthen my development process.  
+I like learning new things. What drew me to software engineering was the ability to create whatever I wanted. What drew me to cybersecurity was the real world application of protecting assests. 
 
-🌐 **Check out my portfolio I built in React:** [isaiah-alv.github.io/portfolio](https://isaiah-alv.github.io/portfolio/)  
-🌐 **Check out my basic frontend projects I built to teach HTML/CSS/JavaScript @ TheCoderSchool:** [codepen.io/isaiah-alv](https://codepen.io/isaiah-alv)  
+🌐 **Check out my portfolio I built in React** [here](https://isaiah-alv.github.io/portfolio/)  
+🌐 **Check out my research and application of Steganography using Python** [here](https://colab.research.google.com/drive/11G_xM-uv1rZ0bWp_PVQ4-3DyQ60Bb4Tb?usp=sharing)  
+🌐 **Check out my basic frontend projects I built to teach HTML/CSS/JavaScript @ TheCoderSchool** [here](https://codepen.io/isaiah-alv)  
+
 
 
 
