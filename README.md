@@ -2,6 +2,9 @@ Welcome to my GitHub!
 I enjoy working across the full stack, experimenting with different technologies, and learning concepts to strengthen my development process.  
 
 🌐 **Check out my portfolio I built in React:** [isaiah-alv.github.io/portfolio](https://isaiah-alv.github.io/portfolio/)  
+🌐 **Check out my basic frontend projects I built to teach HTML/CSS/JavaScript @ TheCoderSchool:** [codepen.io/isaiah-alv](https://codepen.io/isaiah-alv)  
+
+
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
